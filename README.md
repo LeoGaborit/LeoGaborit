@@ -12,18 +12,13 @@
 ## 🛠️ Compétences Techniques
 
 ### Langages & Frameworks
-![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat-square) / ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat-square) / ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat-square) / ![PHP](https://img.shields.io/badge/-PHP-purple?logo=php&logoColor=white&style=flat-square) / ![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white&style=flat-square) / ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square) / ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=yellow&style=flat-square)  
+![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat-square)  ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat-square)  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat-square)  ![PHP](https://img.shields.io/badge/-PHP-purple?logo=php&logoColor=white&style=flat-square)  ![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white&style=flat-square)  ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)  ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=yellow&style=flat-square)  
   
 ### Bases de Données
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)  
-![SQL Server](https://img.shields.io/badge/-SQL_Server-red?logo=microsoft-sql-server&logoColor=white&style=flat-square)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)  ![SQL Server](https://img.shields.io/badge/-SQL_Server-red?logo=microsoft-sql-server&logoColor=white&style=flat-square)  
 
 ### Environnements & Outils
-![Visual Studio Code](https://img.shields.io/badge/-VS_Code-blue?logo=visual-studio-code&logoColor=white&style=flat-square)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)  
-![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white&style=flat-square)  
+![Visual Studio Code](https://img.shields.io/badge/-VS_Code-blue?logo=visual-studio-code&logoColor=white&style=flat-square)  ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)  ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white&style=flat-square)  
 
 ---
 
