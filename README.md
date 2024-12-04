@@ -3,8 +3,7 @@
 🎓 Étudiant en deuxième année de **BUT Informatique** à l'IUT de Limoges. Passionné par l'informatique, je développe mes compétences à travers des projets académiques et personnels.  
 🚀 À la recherche d'un **stage** pour enrichir mon expérience professionnelle.  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/l%C3%A9o-gaborit-31a9622b3/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square)](https://github.com/LeoGaborit)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/l%C3%A9o-gaborit-31a9622b3/)    
 📧 **Email** : leo.gaborit@etu.unilim.fr  
 
 ---
