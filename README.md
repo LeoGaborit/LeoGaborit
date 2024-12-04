@@ -24,8 +24,8 @@
 ---
 
 ## 🌱 En Apprentissage
-- **Développement d'applications** : Projets académiques basés sur des cahiers des charges complexes.  
-- **Maintenance réseau** : Protocoles (TCP/IP, HTTP, FTP), cryptage et diagnostic réseau.  
+- **Raytracing** : Projet de lancer de rayons dans un espace 3D avec ombrages, réfléxion et réfraction : [SAE_RTX](https://github.com/LeoGaborit/SAE_Raytracing)
+- **Maintenance réseau** : Création d'un réseau Kathara en IPv6 avec iptables : [SAE_Reseau](https://github.com/LeoGaborit/SAE_Reseau)  
 
 ---
 
