@@ -32,4 +32,5 @@
 ## 📝 Projets Académiques
 - Création et gestion de bases de données.  
 - Exploration algorithmique pour résoudre des problèmes complexes.  
-- Installation et configuration de services réseau.  
+- Installation et configuration de services réseau.
+- Implémentation d'applications et de sites web fullstacks
