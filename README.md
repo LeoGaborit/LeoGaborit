@@ -2,7 +2,6 @@
 
 🎓 Étudiant BAC+3, en M1 **Mastère Expert en Cybersécurité**, passionné par la cybersécurité. 
 
----
 
 ## 🛠️ Compétences Techniques
 
