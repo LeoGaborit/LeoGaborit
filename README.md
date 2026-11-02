@@ -1,9 +1,6 @@
-# 👋 Hello, I'm Léo Gaborit
+# 👋 Hello, I'm Leo
 
-🎓 Étudiant en deuxième année de **BUT Informatique** à l'IUT de Limoges. Passionné par l'informatique, je développe mes compétences à travers des projets académiques et personnels.  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/l%C3%A9o-gaborit-31a9622b3/)    
-📧 **Email** : leo.gaborit@etu.unilim.fr  
+🎓 Étudiant BAC+3, en M1 **Mastère Expert en Cybersécurité**, passionné par la cybersécurité. 
 
 ---
 
